@@ -62,3 +62,7 @@ typings/
 
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
+
+# App security
+.vscode/
+src/datasources/mongodb.datasource.ts
